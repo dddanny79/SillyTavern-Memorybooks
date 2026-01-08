@@ -595,7 +595,7 @@ export async function runArcAnalysisSequential(
     const { text } = await sendRawCompletionRequest({
       model: conn.model,
       prompt,
-      temperature: conn.temperature ?? 0.2,
+      temperature: conn.temperature ?? 0.7,
       api: conn.api,
       endpoint: conn.endpoint,
       apiKey: conn.apiKey,
@@ -612,7 +612,7 @@ export async function runArcAnalysisSequential(
       const retry = await sendRawCompletionRequest({
         model: conn.model,
         prompt: repairPrompt,
-        temperature: conn.temperature ?? 0.2,
+        temperature: conn.temperature ?? 0.7,
         api: conn.api,
         endpoint: conn.endpoint,
         apiKey: conn.apiKey,
