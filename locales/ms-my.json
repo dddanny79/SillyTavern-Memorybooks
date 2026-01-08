@@ -650,6 +650,7 @@
   "STMemoryBooks_Arc_MaxPasses": "Bilangan percubaan arka automatik",
   "STMemoryBooks_Arc_MinAssigned": "Bilangan memori minimum dalam setiap arka",
   "STMemoryBooks_Arc_TokenBudget": "Bajet Token",
+  "STMemoryBooks_Arc_MaxResponseTokens": "Token Respons Maksimum",
   "STMemoryBooks_Arc_RebuildTitle": "Gesaan Arc Bina Semula daripada Terbina Dalam",
   "STMemoryBooks_Arc_RebuildWarning": "Ini akan menulis ganti pratetap gesaan Arc yang disimpan dengan terbina dalam. Sandaran bercap masa akan dicipta.",
   "STMemoryBooks_Arc_RebuildNote": "Selepas dibina semula, senarai pratetap akan disegarkan semula secara automatik.",

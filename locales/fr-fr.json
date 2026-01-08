@@ -649,6 +649,7 @@
     "STMemoryBooks_Arc_MaxPasses": "Nombre de tentatives d'arc automatiques",
     "STMemoryBooks_Arc_MinAssigned": "Nombre minimum de souvenirs dans chaque arc",
     "STMemoryBooks_Arc_TokenBudget": "Budget de jetons",
+    "STMemoryBooks_Arc_MaxResponseTokens": "Jetons de réponse max",
     "STMemoryBooks_Arc_RebuildTitle": "Reconstruire les invites Arc à partir des éléments intégrés",
     "STMemoryBooks_Arc_RebuildWarning": "Cette opération remplacera vos préréglages d'invite Arc enregistrés par les préréglages intégrés. Une sauvegarde horodatée sera créée.",
     "STMemoryBooks_Arc_RebuildNote": "Après la reconstruction, la liste des préréglages se mettra à jour automatiquement.",

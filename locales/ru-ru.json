@@ -649,6 +649,7 @@
     "STMemoryBooks_Arc_MaxPasses": "Количество попыток автоматического зажигания дуги.",
     "STMemoryBooks_Arc_MinAssigned": "Минимальное количество воспоминаний в каждой сюжетной арке.",
     "STMemoryBooks_Arc_TokenBudget": "Бюджет токенов",
+    "STMemoryBooks_Arc_MaxResponseTokens": "Макс. токенов ответа",
     "STMemoryBooks_Arc_RebuildTitle": "Восстановление подсказок Arc на основе встроенных шаблонов",
     "STMemoryBooks_Arc_RebuildWarning": "Это перезапишет ваши сохраненные предустановки для командной строки Arc встроенными настройками. Будет создана резервная копия с отметкой времени.",
     "STMemoryBooks_Arc_RebuildNote": "После перестройки список предустановок обновится автоматически.",

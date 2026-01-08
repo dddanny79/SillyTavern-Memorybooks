@@ -649,6 +649,7 @@
     "STMemoryBooks_Arc_MaxPasses": "Jumlah percobaan busur otomatis",
     "STMemoryBooks_Arc_MinAssigned": "Jumlah minimum memori di setiap busur",
     "STMemoryBooks_Arc_TokenBudget": "Anggaran Token",
+    "STMemoryBooks_Arc_MaxResponseTokens": "Token Respons Maksimal",
     "STMemoryBooks_Arc_RebuildTitle": "Permintaan Pembangunan Ulang Arc dari Fitur Bawaan",
     "STMemoryBooks_Arc_RebuildWarning": "Tindakan ini akan menimpa preset perintah Arc yang telah Anda simpan dengan preset bawaan. Cadangan dengan stempel waktu akan dibuat.",
     "STMemoryBooks_Arc_RebuildNote": "Setelah proses pembangunan ulang selesai, daftar preset akan diperbarui secara otomatis.",

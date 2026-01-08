@@ -648,6 +648,7 @@
     "STMemoryBooks_Arc_MaxPasses": "Anzahl der automatischen Lichtbogenversuche",
     "STMemoryBooks_Arc_MinAssigned": "Mindestanzahl an Erinnerungen in jedem Handlungsbogen",
     "STMemoryBooks_Arc_TokenBudget": "Token-Budget",
+    "STMemoryBooks_Arc_MaxResponseTokens": "Maximale Antwort-Tokens",
     "STMemoryBooks_Arc_RebuildTitle": "Arc-Eingabeaufforderungen aus integrierten Funktionen neu erstellen",
     "STMemoryBooks_Arc_RebuildWarning": "Dadurch werden Ihre gespeicherten Arc-Eingabeaufforderungs-Voreinstellungen durch die integrierten Einstellungen überschrieben. Eine Sicherungskopie mit Zeitstempel wird erstellt.",
     "STMemoryBooks_Arc_RebuildNote": "Nach dem Neuaufbau wird die Liste der Voreinstellungen automatisch aktualisiert.",
